@@ -12,6 +12,8 @@ My academic and professional work spans ESG and green finance, climate policy, a
 - Causal inference & applied econometrics
 - Climate policy & green finance
 
+---
+
 ### 🛠️ Languages & tools
 
 <p align="left">
