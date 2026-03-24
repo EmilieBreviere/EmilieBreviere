@@ -1,8 +1,5 @@
-## Hi, I'm Emilie 👋
 
-I'm a statistician with a background in econometrics and economics. I believe good policy starts with good data.
-
-My academic and professional work spans ESG and green finance, climate policy, and applied econometrics.
+Hi, I'm Emilie 👋 I'm a statistician with a background in econometrics and economics. I believe good policy starts with good data. My academic and professional work spans ESG and green finance, climate policy, and applied econometrics.
 
 ---
 
